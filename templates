@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+  <form method="POST">
+    <p><input type="text" name="a"> <input type="submit"></p>
+   </form>
+</body>
+</html>
