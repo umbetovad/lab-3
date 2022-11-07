@@ -35,7 +35,7 @@ And then you need to log into your account by pressing the "Log In" button. The 
 
 ![photo_2022-11-07_20-05-42](https://user-images.githubusercontent.com/97800927/200330030-61f4b83c-1d0a-45be-88dd-9f10f8dd4ba1.jpg)
 ___
-Finally, you will be taken to a page where you can enter your NFT address. All the information about the NFT will be displayed in the code terminal. In order to exit you can press the "Log Out" button
+Finally, you will be taken to a page where you can enter your NFT address. Click "Search". All the information about the NFT will be displayed in the code terminal. In order to exit you can press the "Log Out" button.
 
 
 ![photo_2022-11-07_20-07-43](https://user-images.githubusercontent.com/97800927/200330486-a18fed6f-5570-40ce-9b2c-7ae9f72f1827.jpg)
