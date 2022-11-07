@@ -1,1 +1,2 @@
-# lab-4
+Flask APP
+Here we make a site with which to find information about the NFT.
